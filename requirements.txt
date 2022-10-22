@@ -3,4 +3,3 @@ tensorflow
 uvicorn
 pillow
 numpy
-
