@@ -1,5 +1,4 @@
 fastapi
 tensorflow==2.8.0
-uvicorn
 pillow
 numpy
